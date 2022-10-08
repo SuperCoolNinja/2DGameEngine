@@ -1,0 +1,4 @@
+/src/2DGameEngine/assets/images/*.png
+/src/2DGameEngine/assets/sounds/*.wav
+/src/2DGameEngine/assets/tilemaps/*.png
+/src/2DGameEngine/assets/tilemaps/*.map
